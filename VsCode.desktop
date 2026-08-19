@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=VsCode
+Comment=
+Exec=sudo code --user-data-dir="/root/.vscode" --no-sandbox
+
+Icon=vscode
+Path=
+Terminal=true
+StartupNotify=false
